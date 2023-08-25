@@ -1,0 +1,7 @@
+t --version
+git help
+git status
+git init
+git branch
+git branch -M main
+git add <file>
